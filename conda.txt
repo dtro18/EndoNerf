@@ -1,0 +1,2 @@
+to activatet venv
+conda activate endonerf 
