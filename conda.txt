@@ -1,2 +1,5 @@
 to activatet venv
 conda activate endonerf 
+installed opencv using conda
+
+trying to install packages from torchsearchsorted....
